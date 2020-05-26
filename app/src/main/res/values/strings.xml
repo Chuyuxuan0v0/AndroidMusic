@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PlaMusics</string>
+    <string name="textView1">设置</string>
+    <string name="textView2">刷新</string>
+    <string name="textView3">音乐标题</string>
+</resources>
